@@ -1,6 +1,9 @@
 # SFU-ACM-Qualifier-2017
 Qualifying competition for SFU's ACM Qualifier 2017
 
+* All the problems sets were tested with the matching test inputs from https://www.udebug.com/
+* Problems passed submission criteria and were successfully judged by the UVA online tester.
+
 
 <table cellspacing="1" class="tablesorter" style="text-align: center;vertical-align:middle;">
 <thead>
